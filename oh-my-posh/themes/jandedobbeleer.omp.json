@@ -119,10 +119,10 @@
         {
           "type": "az",
           "style": "powerline",
-          "powerline_symbol": "",
+          "powerline_symbol": "\ue0b0",
           "foreground": "#000000",
           "background": "#9ec3f0",
-          "template": " \udb82\udc05 {{ .EnvironmentName }}"
+          "template": " \udb82\udc05 {{ .EnvironmentName }} "
         },
         {
           "background_templates": [
@@ -139,12 +139,12 @@
           "type": "aws"
         },
         {
-          "type": "dotnet",
           "style": "powerline",
-          "powerline_symbol": "",
+          "powerline_symbol": "\ue0b0",
           "foreground": "#000000",
           "background": "#00ffff",
-          "template": "  {{ .Full }} "
+          "template": " \ue77f {{ .Full }} ",
+          "type": "dotnet"
         },
         {
           "background": "#ffff66",
