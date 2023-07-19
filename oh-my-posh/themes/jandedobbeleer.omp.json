@@ -11,8 +11,13 @@
           "leading_diamond": "\ue0b6",
           "properties": {
             "folder_separator_icon": " \ue0b1 ",
-            "home_icon": "~",
-            "style": "folder"
+            "home_icon": "\udb80\udedc Home",
+            "style": "folder",
+            "mapped_locations": {
+              "C:/": "\udb80\udedc C:\\",
+              "C:/Gradle": "\ue660 Gradle",
+              "C:/Workspace/GitHub": "\uF09B Github"
+            }
           },
           "style": "diamond",
           "template": " \uea83  {{ .Path }} ",
