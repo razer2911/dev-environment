@@ -147,7 +147,7 @@
             "always_enabled": true
           },
           "style": "diamond",
-          "template": "<parentBackground>\ue0b0</> \ue23a ",
+          "template": "<parentBackground>\ue0b0</> \uf4b5 ",
           "trailing_diamond": "\ue0b4",
           "type": "exit"
         }
