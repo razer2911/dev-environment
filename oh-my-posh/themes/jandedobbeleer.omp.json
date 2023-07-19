@@ -70,17 +70,6 @@
           "type": "go"
         },
         {
-          "background": "#4063D8",
-          "foreground": "#111111",
-          "powerline_symbol": "\ue0b0",
-          "properties": {
-            "fetch_version": true
-          },
-          "style": "powerline",
-          "template": " \ue624 {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }} ",
-          "type": "julia"
-        },
-        {
           "background": "#FFDE57",
           "foreground": "#111111",
           "powerline_symbol": "\ue0b0",
@@ -91,18 +80,6 @@
           "style": "powerline",
           "template": " \ue235 {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }} ",
           "type": "python"
-        },
-        {
-          "background": "#AE1401",
-          "foreground": "#ffffff",
-          "powerline_symbol": "\ue0b0",
-          "properties": {
-            "display_mode": "files",
-            "fetch_version": true
-          },
-          "style": "powerline",
-          "template": " \ue791 {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }} ",
-          "type": "ruby"
         },
         {
           "background": "#FEAC19",
