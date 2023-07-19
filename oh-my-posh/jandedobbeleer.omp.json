@@ -10,7 +10,6 @@
           "leading_diamond": "\ue0b6",
           "style": "diamond",
           "template": " {{ .UserName }} ",
-          "trailing_diamond": "\ue0b0",
           "type": "session"
         },
         {
@@ -161,8 +160,8 @@
           "properties": {
             "always_enabled": true
           },
-          "style": "plain",
-          "template": "<transparent>\ue0b0</> \ueba2 {{ .FormattedMs }}\u2800",
+          "style": "diamond",
+          "template": " \ueba2 {{ .FormattedMs }} ",
           "type": "executiontime"
         },
         {
