@@ -53,6 +53,12 @@
                 "name": "Command Prompt"
             },
             {
+                "commandline": "ssh sarvesh@192.168.29.17",
+                "guid": "{384ce87c-6358-4542-83d5-f86073479130}",
+                "icon": "C:\\Users\\guptas19\\OneDrive - Diebold Nixdorf\\Pictures\\Pi.ico",
+                "name": "RPi 4B Home Server"
+            },
+            {
                 "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
                 "hidden": false,
                 "name": "Azure Cloud Shell",
